@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    color: yellow;
+    background: url(https://external-preview.redd.it/xfSpztl_4w5k2wsBKfPr0JT1BQDTN_5mqIPM58GNG0c.jpg?width=960&crop=smart&auto=webp&s=2fac5d4e275034da90b2a74499479da4f330ab62) no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+   }
+   
+   img{
+    max-width:100%;
+    height:auto;
+   }
+   p{
+     font-family: 'Courier New', Courier, monospace;
+   }

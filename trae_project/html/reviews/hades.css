@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    color: red;
+    background: url(https://c.wallhere.com/photos/e7/2e/Hades_Game_video_game_art_video_games_digital_art_artwork_Supergiant_Games_Greek_mythology-1960123.jpg!d) no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+   }
+   
+   img{
+    max-width:100%;
+    height:auto;
+   }
+   p{
+     font-family: fantasy;
+   }

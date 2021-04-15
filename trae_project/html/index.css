@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    color: white;
+    background: url(https://cdn.wallpapersafari.com/33/54/DM9AqO.jpg) no-repeat center center fixed; 
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+   }
+   
+   image{
+       width: 200px;
+       height: 300px;
+   }
+
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  p{
+    font-family: Arial, Helvetica, sans-serif;
+  }
